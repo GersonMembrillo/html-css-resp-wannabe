@@ -142,4 +142,7 @@ img {
     .lessons .col, .steps .col, .why-us .col{
         width: 100%;
     }
+    .col{
+        margin-bottom: 60px;
+    }
     }
